@@ -22,11 +22,13 @@ I'm Sarih, a student at Brigham Young University-Idaho interested in software de
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" title="Python" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" title="PostgreSQL" width="40" height="40"/>
 </div>
-- Skills: <Any Other Skills or Tools You Want to Highlight>
+- Skills: 
+    - Effective Communicator
+    - Detail Oriented
+    - Lifetime Learner
 
 ## Let's Connect!
 
-- Here is my [LinkedIn](Your LinkedIn Profile Link) profile
-- Here is my [Twitter](Your Twitter Profile Link) profile
+- Here is my [LinkedIn](https://www.linkedin.com/in/sariah-wandler-4670b7241/) profile
 
 Feel free to explore my repositories and don't hesitate to reach out. Happy coding! 🚀
