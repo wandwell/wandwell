@@ -22,11 +22,7 @@ I'm Sarih, a student at Brigham Young University-Idaho interested in software de
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" title="Python" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" title="PostgreSQL" width="40" height="40"/>
 </div>
-- Skills: <
-    - Effective Communicator
-    - Detail Oriented
-    - Lifetime Learner
-    >
+- Skills: < Effective Communicator, Detail Oriented, Lifetime Learner>
 
 ## Let's Connect!
 
